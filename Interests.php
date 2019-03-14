@@ -324,7 +324,7 @@
     }
     
     .tps-section:nth-child(4n+1) .tps-wrapper {
-      background:  url(Music.jpeg) center center;
+      background:  url(demo4.jpg) center center;
       background-size: cover;
     }
     
@@ -366,7 +366,8 @@
   	  <div class="main">
 	    <div class="header">
         <h1>Interests</h1>
-        <h2>Created By Hamza Aziz</h2>
+        <h2>By Hamza Aziz</h2>
+        <a href="CV.html">CV Link</a>
         
         <div class="btns">
   	      <a class="reload btn" href="https://github.com/peachananr/flipping_gallery">Download on Github</a>
@@ -374,21 +375,19 @@
   	  </div>
   	  <section class="page1">
         <div class="page_container">
-          <h1><a href="http://www.bucketlistly.com/achievements/visit-sydney-australia-95861" target="_blank">Boxing<br><small>A Sporting Interest</small></a></h1>
+          <h1><a href="Sports.html" target="_blank">Boxing<br><small>A Sporting Interest</small></a></h1>
         </div>
       </section>
   	  <section class="page2">
         <div class="page_container">
-          <h1><a href="http://www.bucketlistly.com/achievements/visit-uluru-ayers-rock-96722" target="_blank">WeightLifting/Gym<br><small>A Hobby And A Lifestyle</small></a></h1>
+            <h1><a href="Fitness.html" target="_blank">Weightlifting/The Gym<br><small>A Hobby and a Lifestyle</small></a></h1>
         </div>
       </section>
   	  <section class="page3">
         <div class="page_container">
-          <h1><a href="http://www.bucketlistly.com/achievements/travel-to-zhangjiajie-avatar-s-mountains-china-85798" target="_blank">Music<br><small>A necessity</small></a></h1>
+            <h1><a href="Music.html" target="_blank">Music<br><small>A necessity</small></a></h1>
         </div>
      
-        </div>
-      </section>
     </div>
     <a class="back" href="http://www.thepetedesign.com/#design">Back to The Pete Design</a>
     <a href="https://github.com/peachananr/tiltedpage-scroll"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
@@ -403,3 +402,11 @@
   </script>
 </body>
 </html>
+    <?php
+
+/* 
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
