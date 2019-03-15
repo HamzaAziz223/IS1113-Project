@@ -367,10 +367,15 @@
 	    <div class="header">
         <h1>Interests</h1>
         <h2>By Hamza Aziz</h2>
-        <a href="CV.html">CV Link</a>
+        
+        
+        
+        
         
         <div class="btns">
-  	      <a class="reload btn" href="https://github.com/peachananr/flipping_gallery">Download on Github</a>
+            <a class="reload btn" href="index.php">Return To Homepage</a>
+            <a class="reload btn" href="CV.html">Link To CV</a>
+            <a class="reload btn" href="Consulting.html">Link To Consulting Services</a>
   	    </div>
   	  </div>
   	  <section class="page1">
